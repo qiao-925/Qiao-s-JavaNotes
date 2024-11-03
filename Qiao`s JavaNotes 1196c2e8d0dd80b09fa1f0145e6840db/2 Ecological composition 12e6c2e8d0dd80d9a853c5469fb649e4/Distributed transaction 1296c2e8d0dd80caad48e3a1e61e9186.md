@@ -1,7 +1,5 @@
 # Distributed transaction
 
-所有者: assemble hash
-
 ### **Distributed transaction solution**
 
 - Strong consistency：

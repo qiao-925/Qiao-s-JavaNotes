@@ -1,6 +1,4 @@
-# RocketMQ — Distributed-messaging
-
-所有者: assemble hash
+# b. RocketMQ — Distributed-messaging
 
 # Ref
 
@@ -39,9 +37,4 @@
 # Experience on MQ
 
 - https://blog.csdn.net/huoyunshen88/article/details/42776961
-- 
-
-todo
-
-- topic和consumergroup命名冲突问题，是否在添加时支持异常报错
-- MQ Isolation
+- https://www.cnblogs.com/fulongyuanjushi/p/16457753.html

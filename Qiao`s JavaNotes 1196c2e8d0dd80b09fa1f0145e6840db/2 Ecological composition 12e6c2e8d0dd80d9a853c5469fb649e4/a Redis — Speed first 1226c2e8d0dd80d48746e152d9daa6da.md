@@ -1,6 +1,4 @@
-# Redis — Speed first
-
-所有者: assemble hash
+# a. Redis — Speed first
 
 # Ref
 
