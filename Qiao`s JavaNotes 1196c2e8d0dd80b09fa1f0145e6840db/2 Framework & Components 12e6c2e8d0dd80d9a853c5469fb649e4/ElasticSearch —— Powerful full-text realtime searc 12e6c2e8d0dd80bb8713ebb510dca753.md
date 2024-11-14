@@ -1,4 +1,4 @@
-# c. ElasticSearch —— Powerful full-text realtime search
+# ElasticSearch —— Powerful full-text realtime search
 
 # Ref
 

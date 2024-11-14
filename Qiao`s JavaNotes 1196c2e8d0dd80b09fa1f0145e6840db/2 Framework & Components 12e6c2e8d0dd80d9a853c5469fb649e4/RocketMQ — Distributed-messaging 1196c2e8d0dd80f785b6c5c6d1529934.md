@@ -1,4 +1,4 @@
-# b. RocketMQ — Distributed-messaging
+# RocketMQ — Distributed-messaging
 
 # Ref
 

@@ -1,4 +1,4 @@
-# a. Redis — Speed first
+# Redis — Speed first
 
 # Ref
 

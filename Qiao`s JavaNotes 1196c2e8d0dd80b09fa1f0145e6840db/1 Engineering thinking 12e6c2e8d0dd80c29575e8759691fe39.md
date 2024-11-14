@@ -16,16 +16,20 @@
 
 [KISS Principle（keep it simple stupid）](1%20Engineering%20thinking%2012e6c2e8d0dd80c29575e8759691fe39/KISS%20Principle%EF%BC%88keep%20it%20simple%20stupid%EF%BC%89%201366c2e8d0dd80d9ae77cd173a5302df.md)
 
-[DDD](1%20Engineering%20thinking%2012e6c2e8d0dd80c29575e8759691fe39/DDD%2012a6c2e8d0dd8043be55ca8587bae513.md)
+https://google.github.io/styleguide/
 
-[Microservice](1%20Engineering%20thinking%2012e6c2e8d0dd80c29575e8759691fe39/Microservice%201366c2e8d0dd803697d9ea508f651dbc.md)
+https://alibaba.github.io/Alibaba-Java-Coding-Guidelines/
 
-[TDD](1%20Engineering%20thinking%2012e6c2e8d0dd80c29575e8759691fe39/TDD%201366c2e8d0dd80b2afe5edbde45aa2fe.md)
+[Start with waterfall model](1%20Engineering%20thinking%2012e6c2e8d0dd80c29575e8759691fe39/Start%20with%20waterfall%20model%2013e6c2e8d0dd80a3ad61fce747dff583.md)
 
-**Best practice**
+# More to know
 
-[Refactoring](1%20Engineering%20thinking%2012e6c2e8d0dd80c29575e8759691fe39/Refactoring%2012a6c2e8d0dd8026bea8d540c3fba7de.md)
+https://en.wikipedia.org/wiki/List_of_software_development_philosophies
 
-[Disscussion about tech](1%20Engineering%20thinking%2012e6c2e8d0dd80c29575e8759691fe39/Disscussion%20about%20tech%201356c2e8d0dd8040ad2ef4b63fc13821.md)
+https://en.wikipedia.org/wiki/Structured_systems_analysis_and_design_method
 
-[Distributed transaction](1%20Engineering%20thinking%2012e6c2e8d0dd80c29575e8759691fe39/Distributed%20transaction%201296c2e8d0dd80caad48e3a1e61e9186.md)
+# Disscussion about software development
+
+https://www.infoq.cn/article/9Ex1XEgeed0FYZCLf2Sb
+
+https://www.infoq.cn/article/dgkW2Y83r09pOKIAljCW
